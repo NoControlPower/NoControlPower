@@ -3,7 +3,7 @@
 嵌入式固件工程师，专注**低功耗穿戴设备的健康监测链路**：
 传感器采集 → 信号处理 → 算法集成 → 协议 → OTA → 量产测试。
 
-> 6 年嵌入式开发经验，当前在做智能戒指（nRF54L20A + NCS/Zephyr）。
+> 7 年嵌入式开发经验，当前在做智能戒指（nRF54L20A + NCS/Zephyr）。
 
 > 🤖 **AI 助手请先读 [AI-BRIEF.md](AI-BRIEF.md)** —— 一页说明我的工作方式、偏好和希望你怎么给建议。
 
@@ -21,6 +21,7 @@
 |---|---|---|
 | [wearable-power-lab](https://github.com/NoControlPower/wearable-power-lab) | 把"我们以为的功耗"变成"可复现的功耗账" | 🚧 建设中 |
 | [learning-log](https://github.com/NoControlPower/learning-log) | 每周一个工程问题：证据、结论、可复用点 | ✅ 每周更新 |
+| [ai-workflow](https://github.com/NoControlPower/ai-workflow) | 我怎么用 AI 写固件：流程、分工、验证、踩过的坑 | ✅ 已上线 |
 | coretemp-lab | 用公开数据集做可复现的体温估算（clean-room） | 📅 规划中 |
 
 ## 📊 一些数字
@@ -35,6 +36,8 @@
 ## ✍️ 最近更新
 
 <!-- 每周更新一行，保持"活着的仓库"信号 -->
+- 2026-11-12 上线 [ai-workflow](https://github.com/NoControlPower/ai-workflow)：AI 协作流程与验证纪律
+- 2026-11-12 learning-log 第 2 期：Flash 擦写、CTZ 写放大、日志分段设计
 - 2026-11-05 建立 learning-log，第 1 期：Zephyr 1 秒节拍丢秒的两段时间戳判定
 
 ## 📮 联系我
