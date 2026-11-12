@@ -55,3 +55,14 @@ requirement → I decompose with AI → run my own skills (guarded-code-change)
 2. Give trade-offs, including what you'd give up;
 3. Say what you don't know;
 4. If a number matters, tell me how to measure it.
+
+## 当前方向（2026-11）
+
+- **主线**：穿戴/医疗穿戴的系统架构 —— 分层解耦、可模拟后端、功耗账；
+- **扩展能力**：端侧 AI 工程化（把模型落到 MCU：量化、内存、功耗、精度取舍）；
+- **不追的方向**：纯算法研究、纯应用层开发。
+
+## 已知短板（在改）
+
+- 技术表达：正在用"每周一篇工程笔记 + 每月一页评估"练；
+- 英语：读写可借助工具，口语较弱。
