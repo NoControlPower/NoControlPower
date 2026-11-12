@@ -46,6 +46,7 @@
 
 <!-- 每周更新一行，保持"活着的仓库"信号 -->
 - 2026-11-12 上线 [ai-workflow](https://github.com/NoControlPower/ai-workflow)：AI 协作流程与验证纪律
+- 2026-11-12 知乎长文：[为什么写 Flash 会卡住 1Hz 任务](https://zhuanlan.zhihu.com/p/2104250996994187734)
 - 2026-11-12 learning-log 第 2 期：Flash 擦写、CTZ 写放大、日志分段设计
 - 2026-11-05 建立 learning-log，第 1 期：Zephyr 1 秒节拍丢秒的两段时间戳判定
 
